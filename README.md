@@ -1,0 +1,34 @@
+# Machine Learning Project 
+
+*Company* : Zoople Technologies
+
+*Name* : Fathima Fidha 
+
+*mentor* : Jasheena 
+
+**In this project I explored how students daily habits - such as study hours, social media time, Netflix usage, sleep, attendance and exam score - impact their academic performance.
+
+I performed data preprocessing, including cleaning, encoding, and splitting the dataset, followed by implementing multiple Supervised Learning Regression models:
+
+Columns :
+
+ Target Column : exam score
+
+🔍 Models Evaluated :
+
+✔️ Linear Regression
+✔️ Support Vector Machine (SVM)
+✔️ Decision Tree
+✔️ K-Nearest Neighbors (KNN)
+✔️ Random Forest
+
+📈 Model Performance Comparison- Regression Task
+
+In my recent experiment, I evaluated multiple machine Learning models to identify the best performer.
+
+✅ Linear Regression achieved a score of 92%
+✅ Random Forest achieved a score of 85%
+
+Based on evaluation metric, Linear Regression emerged as the best performing model, offering both strong performance and better interpretability.
+
+This project helped me strengthen my understanding of regression analysis, data preprocessing, and model evaluation using python, pandas
