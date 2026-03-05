@@ -89,17 +89,18 @@ Examined the impact of social media usage and lifestyle habits on academic perfo
 Generated correlation analysis to identify important features.
 
 4. Handling Categorical Variables
+   
 Several columns in the dataset contained categorical data, which cannot be directly used in machine learning models.
 
 These columns were converted into numerical values.
 
 5.Label Encoding Using Map Function
 
-Categorical features were encoded using the map() function in Python, assigning numeric values to each category. 
+ Categorical features were encoded using the map() function in Python, assigning numeric values to each category. 
 
 6.Feature Selection
 
-Relevant features that influence exam scores were selected for analysis and modeling.
+ Relevant features that influence exam scores were selected for analysis and modeling.
 
 7. Model Development
 
